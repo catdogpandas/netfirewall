@@ -1,0 +1,2 @@
+id:0 src_ip:0 src_mask:0 src_port:0 dst_ip:0 dst_mask:0 dst_port:0 protocol:6 action:1 log:1
+id:1 src_ip:1010101 src_mask:32 src_port:0 dst_ip:10101 dst_mask:24 dst_port:0 protocol:6 action:1 log:1

@@ -1,0 +1,2 @@
+id:0 src_ip:132.203.168.192 src_mask:0 src_port:0 dst_ip:1.203.168.192 dst_mask:0 dst_port:0 protocol:6 action:1 log:1
+id:1 src_ip:132.203.168.192 src_mask:32 src_port:0 dst_ip:1.203.168.192 dst_mask:32 dst_port:0 protocol:1 action:0 log:1
